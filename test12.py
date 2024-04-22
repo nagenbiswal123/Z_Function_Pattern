@@ -4,6 +4,11 @@
 #If you variable name in 2 part like it below, EC2_Instance_Name
 # and also we are clalled snake casing , Ec2_Instance_Name
 #In Camle casing format to write a varibale name is, Ec2InstanceName
+#Make a variable as discriptive Format, like in a Good format/In full name instead of writing fn, n.
+
+
+
+
 
 a=9
 b=3
